@@ -1,17 +1,15 @@
 ' -----[ Title ]-----------------------------------------------------------
 '
-' File...... pohja.bas
+' File...... linerider.bas
 ' Purpose... PIC16F876
-' Author.... Seppo Vihavainen
-' Started... 13.12.2012
-' Updated... 
+' Author.... Topi Tuulensuu & Mika Lamminaho
+' Started... 01.02.2013
+' Updated... 22.03.2013
 
 
 ' -----[ Program Description ]---------------------------------------------
 ' 
-'
-'
-'
+' Program that uses Infrared Line detector to drive two continuous servos.
 '
 '
 ' PIC16F876 kytket‰‰n seuraavasti:
